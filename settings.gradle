@@ -1,0 +1,2 @@
+rootProject.name = "se1405_sprinner_datepicker"
+include ':app'
